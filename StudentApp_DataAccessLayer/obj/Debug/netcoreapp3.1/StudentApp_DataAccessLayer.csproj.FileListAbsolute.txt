@@ -1,0 +1,12 @@
+C:\Sajal\Student_App\StudentApp_DataAccessLayer\obj\Debug\netcoreapp3.1\StudentApp_DataAccessLayer.AssemblyInfoInputs.cache
+C:\Sajal\Student_App\StudentApp_DataAccessLayer\obj\Debug\netcoreapp3.1\StudentApp_DataAccessLayer.AssemblyInfo.cs
+C:\Sajal\Student_App\StudentApp_DataAccessLayer\obj\Debug\netcoreapp3.1\StudentApp_DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Sajal\Student_App\StudentApp_DataAccessLayer\bin\Debug\netcoreapp3.1\StudentApp_DataAccessLayer.deps.json
+C:\Sajal\Student_App\StudentApp_DataAccessLayer\bin\Debug\netcoreapp3.1\StudentApp_DataAccessLayer.runtimeconfig.json
+C:\Sajal\Student_App\StudentApp_DataAccessLayer\bin\Debug\netcoreapp3.1\StudentApp_DataAccessLayer.runtimeconfig.dev.json
+C:\Sajal\Student_App\StudentApp_DataAccessLayer\bin\Debug\netcoreapp3.1\StudentApp_DataAccessLayer.dll
+C:\Sajal\Student_App\StudentApp_DataAccessLayer\bin\Debug\netcoreapp3.1\StudentApp_DataAccessLayer.pdb
+C:\Sajal\Student_App\StudentApp_DataAccessLayer\obj\Debug\netcoreapp3.1\StudentApp_DataAccessLayer.dll
+C:\Sajal\Student_App\StudentApp_DataAccessLayer\obj\Debug\netcoreapp3.1\StudentApp_DataAccessLayer.pdb
+C:\Sajal\Student_App\StudentApp_DataAccessLayer\obj\Debug\netcoreapp3.1\StudentApp_DataAccessLayer.genruntimeconfig.cache
+C:\Sajal\Student_App\StudentApp_DataAccessLayer\obj\Debug\netcoreapp3.1\StudentApp_DataAccessLayer.csprojAssemblyReference.cache
