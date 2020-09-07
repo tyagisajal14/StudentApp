@@ -1,0 +1,9 @@
+C:\Sajal\Student_App\StudentApp_Models\bin\Debug\netcoreapp3.1\StudentApp_Models.deps.json
+C:\Sajal\Student_App\StudentApp_Models\bin\Debug\netcoreapp3.1\StudentApp_Models.dll
+C:\Sajal\Student_App\StudentApp_Models\bin\Debug\netcoreapp3.1\StudentApp_Models.pdb
+C:\Sajal\Student_App\StudentApp_Models\obj\Debug\netcoreapp3.1\StudentApp_Models.AssemblyInfoInputs.cache
+C:\Sajal\Student_App\StudentApp_Models\obj\Debug\netcoreapp3.1\StudentApp_Models.AssemblyInfo.cs
+C:\Sajal\Student_App\StudentApp_Models\obj\Debug\netcoreapp3.1\StudentApp_Models.csproj.CoreCompileInputs.cache
+C:\Sajal\Student_App\StudentApp_Models\obj\Debug\netcoreapp3.1\StudentApp_Models.dll
+C:\Sajal\Student_App\StudentApp_Models\obj\Debug\netcoreapp3.1\StudentApp_Models.pdb
+C:\Sajal\Student_App\StudentApp_Models\obj\Debug\netcoreapp3.1\StudentApp_Models.csprojAssemblyReference.cache
