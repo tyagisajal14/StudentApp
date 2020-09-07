@@ -10,3 +10,6 @@ After that take latest of UI code which was developed in Angular and by navigati
 ng serve -o
 
 That is you are ready to use.
+
+
+NOTE: UI code is zipped , so user needs to unzip it first to see the changes.
